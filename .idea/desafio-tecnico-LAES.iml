@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/01-soma-de-dois-numeros" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02-verificador-de-palindromo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03-fizzbuzz" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/04-maximum-subarray" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05-best-time-stock" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/06-climbing-stairs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/07-valid-parentheses" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/08-merge-intervals" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/09-missing-number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10-median-two-arrays" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
