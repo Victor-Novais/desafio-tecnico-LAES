@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="01-soma-de-dois-numeros"/>
+	<classpathentry kind="src" path="02-verificador-de-palindromo"/>
+	<classpathentry kind="src" path="03-fizzbuzz"/>
+	<classpathentry kind="src" path="04-maximum-subarray"/>
+	<classpathentry kind="src" path="05-best-time-stock"/>
+	<classpathentry kind="src" path="06-climbing-stairs"/>
+	<classpathentry kind="src" path="09-missing-number"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
